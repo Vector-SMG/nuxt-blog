@@ -48,7 +48,7 @@ export default {
     port: 8000,
   },
   router: {
-    base: '/nuxt-blog/',
+    base: '/',
   },
   generate: {
     subFolders: false
