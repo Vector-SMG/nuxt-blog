@@ -50,4 +50,7 @@ export default {
   router: {
     base: '/nuxt-blog/',
   },
+  generate: {
+    subFolders: false
+  }
 }
